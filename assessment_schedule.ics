@@ -2,54 +2,63 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:ReportDue (CCS Research 3A)
 DTSTART;TZID=Australia/Sydney:20240616T234400
+DTSTART;TZID=Australia/Sydney:20240421T235900
 DTEND;TZID=Australia/Sydney:20240616T235900
 NOTE:75.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seminar 1Due (CCS Research 3A)
 DTSTART;TZID=Australia/Sydney:20240318T234400
+DTSTART;TZID=Australia/Sydney:20240304T235900
 DTEND;TZID=Australia/Sydney:20240318T235900
 NOTE:5.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seminar JournalDue (CCS Research 3A)
 DTSTART;TZID=Australia/Sydney:20240603T234400
+DTSTART;TZID=Australia/Sydney:20240520T235900
 DTEND;TZID=Australia/Sydney:20240603T235900
 NOTE:10.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seminar 2Due (CCS Research 3A)
 DTSTART;TZID=Australia/Sydney:20240528T234400
+DTSTART;TZID=Australia/Sydney:20240514T235900
 DTEND;TZID=Australia/Sydney:20240528T235900
 NOTE:10.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Report 1Due (Digital Forensics)
 DTSTART;TZID=Australia/Sydney:20240317T174000
+DTSTART;TZID=Australia/Sydney:20240226T185500
 DTEND;TZID=Australia/Sydney:20240317T175500
 NOTE:5.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Report 2Due (Digital Forensics)
 DTSTART;TZID=Australia/Sydney:20240428T174000
+DTSTART;TZID=Australia/Sydney:20240403T185500
 DTEND;TZID=Australia/Sydney:20240428T175500
 NOTE:15.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Report 3Due (Digital Forensics)
 DTSTART;TZID=Australia/Sydney:20240603T014000
+DTSTART;TZID=Australia/Sydney:20240410T175500
 DTEND;TZID=Australia/Sydney:20240603T015500
 NOTE:15.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Written EssayDue (Digital Forensics)
 DTSTART;TZID=Australia/Sydney:20240525T234500
+DTSTART;TZID=Australia/Sydney:20240421T000000
 DTEND;TZID=Australia/Sydney:20240526T000000
 NOTE:25.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project and Written AssignmentDue (Digital Forensics)
 DTSTART;TZID=Australia/Sydney:20240608T234500
+DTSTART;TZID=Australia/Sydney:20240505T000000
 DTEND;TZID=Australia/Sydney:20240609T000000
 NOTE:40.00%Weighting
 END:VEVENT
@@ -57,6 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Problem-Solving on State Space SearchDue (Fundamentals of Artifici
  al Intelligence)
 DTSTART;TZID=Australia/Sydney:20240315T174500
+DTSTART;TZID=Australia/Sydney:20240308T090000
 DTEND;TZID=Australia/Sydney:20240315T180000
 NOTE:10.00%Weighting
 END:VEVENT
@@ -64,6 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Problem-Solving and Programming Task on Adversarial State Space Se
  archDue (Fundamentals of Artificial Intelligence)
 DTSTART;TZID=Australia/Sydney:20240402T174500
+DTSTART;TZID=Australia/Sydney:20240318T090000
 DTEND;TZID=Australia/Sydney:20240402T180000
 NOTE:20.00%Weighting
 END:VEVENT
@@ -71,6 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Knowledge Acquisition ReportDue (Fundamentals of Artificial Intell
  igence)
 DTSTART;TZID=Australia/Sydney:20240426T174500
+DTSTART;TZID=Australia/Sydney:20240402T090000
 DTEND;TZID=Australia/Sydney:20240426T180000
 NOTE:10.00%Weighting
 END:VEVENT
@@ -78,6 +90,7 @@ BEGIN:VEVENT
 SUMMARY:System Project PresentationDue (Fundamentals of Artificial Intelli
  gence)
 DTSTART;TZID=Australia/Sydney:20240510T174500
+DTSTART;TZID=Australia/Sydney:20240429T090000
 DTEND;TZID=Australia/Sydney:20240510T180000
 NOTE:10.00%Weighting
 END:VEVENT
@@ -85,24 +98,28 @@ BEGIN:VEVENT
 SUMMARY:Expert System Project Implemented in PROLOG with Written ReportDue
   (Fundamentals of Artificial Intelligence)
 DTSTART;TZID=Australia/Sydney:20240524T174500
+DTSTART;TZID=Australia/Sydney:20240429T090000
 DTEND;TZID=Australia/Sydney:20240524T180000
 NOTE:25.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Final ExamDue (Fundamentals of Artificial Intelligence)
 DTSTART;TZID=Australia/Sydney:20240622T174500
+DTSTART;TZID=Australia/Sydney:20240615T090000
 DTEND;TZID=Australia/Sydney:20240622T180000
 NOTE:25.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Group ProjectDue (Web Development and Security)
 DTSTART;TZID=Australia/Sydney:20240531T174500
+DTSTART;TZID=Australia/Sydney:20240314T180000
 DTEND;TZID=Australia/Sydney:20240531T180000
 NOTE:30.00%Weighting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Final ExamDue (Web Development and Security)
 DTSTART;TZID=Australia/Sydney:20240622T174500
+DTSTART;TZID=Australia/Sydney:20240615T090000
 DTEND;TZID=Australia/Sydney:20240622T180000
 NOTE:40.00%Weighting
 END:VEVENT
