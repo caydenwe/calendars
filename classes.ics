@@ -30,12 +30,6 @@ DTEND;TZID=Australia/Sydney:20240229T160000
 LOCATION:Seminar Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Web Development and Security Lab
-DTSTART;TZID=Australia/Sydney:20240229T160000
-DTEND;TZID=Australia/Sydney:20240229T180000
-LOCATION:Bld 13 PC Lab 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundamentals of Artificial Intelligence Lecture 2
 DTSTART;TZID=Australia/Sydney:20240301T110000
 DTEND;TZID=Australia/Sydney:20240301T120000
@@ -238,12 +232,6 @@ SUMMARY:Web Development and Security Lecture
 DTSTART;TZID=Australia/Sydney:20240328T140000
 DTEND;TZID=Australia/Sydney:20240328T160000
 LOCATION:Seminar Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web Development and Security Lab
-DTSTART;TZID=Australia/Sydney:20240328T160000
-DTEND;TZID=Australia/Sydney:20240328T180000
-LOCATION:Bld 13 PC Lab 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundamentals of Artificial Intelligence Lecture 1
@@ -534,12 +522,6 @@ DTEND;TZID=Australia/Sydney:20240530T160000
 LOCATION:Seminar Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Web Development and Security Lab
-DTSTART;TZID=Australia/Sydney:20240530T160000
-DTEND;TZID=Australia/Sydney:20240530T180000
-LOCATION:Bld 13 PC Lab 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundamentals of Artificial Intelligence Lecture 2
 DTSTART;TZID=Australia/Sydney:20240531T110000
 DTEND;TZID=Australia/Sydney:20240531T120000
@@ -580,12 +562,6 @@ SUMMARY:Web Development and Security Lecture
 DTSTART;TZID=Australia/Sydney:20240606T140000
 DTEND;TZID=Australia/Sydney:20240606T160000
 LOCATION:Seminar Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web Development and Security Lab
-DTSTART;TZID=Australia/Sydney:20240606T160000
-DTEND;TZID=Australia/Sydney:20240606T180000
-LOCATION:Bld 13 PC Lab 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundamentals of Artificial Intelligence Lecture 2
