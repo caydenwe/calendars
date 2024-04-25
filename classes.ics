@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:CCS 3A Research Lecture
 DTSTART;TZID=Australia/Sydney:20240426T130000
 DTEND;TZID=Australia/Sydney:20240426T140000
-LOCATION:Seminar Room 4
+LOCATION:Seminar Room 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundamentals of Artificial Intelligence Lecture 1
