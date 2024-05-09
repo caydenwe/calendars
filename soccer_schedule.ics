@@ -60,13 +60,13 @@ DTEND;TZID=Australia/Sydney:20240504T160000
 LOCATION:Gissing Oval Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 6 U23s vs West Canberra Wanderers FC Away
+SUMMARY:Round 6 1st Grade vs West Canberra Wanderers FC Away
 DTSTART;TZID=Australia/Sydney:20240511T130000
 DTEND;TZID=Australia/Sydney:20240511T144500
 LOCATION:Melrose Synthetic Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 6 1st Grade vs West Canberra Wanderers FC Away
+SUMMARY:Round 6 U23s vs West Canberra Wanderers FC Away
 DTSTART;TZID=Australia/Sydney:20240511T151500
 DTEND;TZID=Australia/Sydney:20240511T170000
 LOCATION:Melrose Synthetic Field 1
