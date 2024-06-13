@@ -84,8 +84,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Expert System Project Implemented in PROLOG with Written Report Du
  e (Fundamentals of Artificial Intelligence)
-DTSTART;TZID=Australia/Sydney:20240526T174500
-DTEND;TZID=Australia/Sydney:20240526T180000
+DTSTART;TZID=Australia/Sydney:20240602T174500
+DTEND;TZID=Australia/Sydney:20240602T180000
 NOTE:25% Weighting
 END:VEVENT
 BEGIN:VEVENT
