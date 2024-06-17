@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Round 1 U23s vs ANU FC Away
+SUMMARY:Round 1 U23s vs ANU FC at Home
 DTSTART;TZID=Australia/Sydney:20240604T190000
 DTEND;TZID=Australia/Sydney:20240604T204500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1 1st Grade vs ANU FC Away
+SUMMARY:Round 1 1st Grade vs ANU FC at Home
 DTSTART;TZID=Australia/Sydney:20240605T190000
 DTEND;TZID=Australia/Sydney:20240605T204500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 2 U23s vs Canberra Juventus FC Away
+SUMMARY:Round 2 U23s vs Canberra Juventus FC at Home
 DTSTART;TZID=Australia/Sydney:20240413T130000
 DTEND;TZID=Australia/Sydney:20240413T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 2 1st Grade vs Canberra Juventus FC Away
+SUMMARY:Round 2 1st Grade vs Canberra Juventus FC at Home
 DTSTART;TZID=Australia/Sydney:20240413T150000
 DTEND;TZID=Australia/Sydney:20240413T164500
 LOCATION:Woden Park Enclosed Field 1
@@ -36,13 +36,13 @@ DTEND;TZID=Australia/Sydney:20240420T164500
 LOCATION:High Street Oval Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4 U23s vs Brindabella Blues FC Away
+SUMMARY:Round 4 U23s vs Brindabella Blues FC at Home
 DTSTART;TZID=Australia/Sydney:20240427T130000
 DTEND;TZID=Australia/Sydney:20240427T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 4 1st Grade vs Brindabella Blues FC Away
+SUMMARY:Round 4 1st Grade vs Brindabella Blues FC at Home
 DTSTART;TZID=Australia/Sydney:20240427T150000
 DTEND;TZID=Australia/Sydney:20240427T164500
 LOCATION:Woden Park Enclosed Field 1
@@ -72,25 +72,25 @@ DTEND;TZID=Australia/Sydney:20240511T170000
 LOCATION:Melrose Synthetic Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 7 U23s vs Belconnen United FC Away
+SUMMARY:Round 7 U23s vs Belconnen United FC at Home
 DTSTART;TZID=Australia/Sydney:20240518T130000
 DTEND;TZID=Australia/Sydney:20240518T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 7 1st Grade vs Belconnen United FC Away
+SUMMARY:Round 7 1st Grade vs Belconnen United FC at Home
 DTSTART;TZID=Australia/Sydney:20240518T150000
 DTEND;TZID=Australia/Sydney:20240518T164500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 8 U23s vs ANU FC Away
+SUMMARY:Round 8 U23s vs ANU FC at Home
 DTSTART;TZID=Australia/Sydney:20240525T130000
 DTEND;TZID=Australia/Sydney:20240525T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 8 1st Grade vs ANU FC Away
+SUMMARY:Round 8 1st Grade vs ANU FC at Home
 DTSTART;TZID=Australia/Sydney:20240525T151500
 DTEND;TZID=Australia/Sydney:20240525T170000
 LOCATION:Woden Park Enclosed Field 1
@@ -120,13 +120,13 @@ DTEND;TZID=Australia/Sydney:20240615T164500
 LOCATION:Calwell 2 Field 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 11 U23s vs Wagga City Wanderers FC Away
+SUMMARY:Round 11 U23s vs Wagga City Wanderers FC at Home
 DTSTART;TZID=Australia/Sydney:20240622T130000
 DTEND;TZID=Australia/Sydney:20240622T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 11 1st Grade vs Wagga City Wanderers FC Away
+SUMMARY:Round 11 1st Grade vs Wagga City Wanderers FC at Home
 DTSTART;TZID=Australia/Sydney:20240622T150000
 DTEND;TZID=Australia/Sydney:20240622T164500
 LOCATION:Woden Park Enclosed Field 1
@@ -144,25 +144,25 @@ DTEND;TZID=Australia/Sydney:20240629T170000
 LOCATION:Melrose Synthetic Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 13 U23s vs Belconnen United FC Away
+SUMMARY:Round 13 U23s vs Belconnen United FC at Home
 DTSTART;TZID=Australia/Sydney:20240706T130000
 DTEND;TZID=Australia/Sydney:20240706T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 13 1st Grade vs Belconnen United FC Away
+SUMMARY:Round 13 1st Grade vs Belconnen United FC at Home
 DTSTART;TZID=Australia/Sydney:20240706T150000
 DTEND;TZID=Australia/Sydney:20240706T164500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 14 U23s vs Queanbeyan City FC Away
+SUMMARY:Round 14 U23s vs Queanbeyan City FC at Home
 DTSTART;TZID=Australia/Sydney:20240713T130000
 DTEND;TZID=Australia/Sydney:20240713T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 14 1st Grade vs Queanbeyan City FC Away
+SUMMARY:Round 14 1st Grade vs Queanbeyan City FC at Home
 DTSTART;TZID=Australia/Sydney:20240713T150000
 DTEND;TZID=Australia/Sydney:20240713T164500
 LOCATION:Woden Park Enclosed Field 1
@@ -180,13 +180,13 @@ DTEND;TZID=Australia/Sydney:20240720T170000
 LOCATION:ANU South Oval Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 16 U23s vs Canberra Juventus FC Away
+SUMMARY:Round 16 U23s vs Canberra Juventus FC at Home
 DTSTART;TZID=Australia/Sydney:20240727T130000
 DTEND;TZID=Australia/Sydney:20240727T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 16 1st Grade vs Canberra Juventus FC Away
+SUMMARY:Round 16 1st Grade vs Canberra Juventus FC at Home
 DTSTART;TZID=Australia/Sydney:20240727T150000
 DTEND;TZID=Australia/Sydney:20240727T164500
 LOCATION:Woden Park Enclosed Field 1
@@ -216,25 +216,25 @@ DTEND;TZID=Australia/Sydney:20240810T164500
 LOCATION:Calwell 2 Field 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 19 U23s vs Wagga City Wanderers FC Away
+SUMMARY:Round 19 U23s vs Wagga City Wanderers FC at Home
 DTSTART;TZID=Australia/Sydney:20240817T130000
 DTEND;TZID=Australia/Sydney:20240817T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 19 1st Grade vs Wagga City Wanderers FC Away
+SUMMARY:Round 19 1st Grade vs Wagga City Wanderers FC at Home
 DTSTART;TZID=Australia/Sydney:20240817T150000
 DTEND;TZID=Australia/Sydney:20240817T164500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 20 U23s vs West Canberra Wanderers FC Away
+SUMMARY:Round 20 U23s vs West Canberra Wanderers FC at Home
 DTSTART;TZID=Australia/Sydney:20240824T130000
 DTEND;TZID=Australia/Sydney:20240824T144500
 LOCATION:Woden Park Enclosed Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 20 1st Grade vs West Canberra Wanderers FC Away
+SUMMARY:Round 20 1st Grade vs West Canberra Wanderers FC at Home
 DTSTART;TZID=Australia/Sydney:20240824T150000
 DTEND;TZID=Australia/Sydney:20240824T164500
 LOCATION:Woden Park Enclosed Field 1
