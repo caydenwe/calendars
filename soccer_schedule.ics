@@ -132,13 +132,13 @@ DTEND;TZID=Australia/Sydney:20240622T201500
 LOCATION:Hawker Football Centre Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 12 U23s vs West Canberra Wanderers FC Away
+SUMMARY:Round 12 1st Grade vs West Canberra Wanderers FC Away
 DTSTART;TZID=Australia/Sydney:20240629T130000
 DTEND;TZID=Australia/Sydney:20240629T144500
 LOCATION:Melrose Synthetic Field 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 12 1st Grade vs West Canberra Wanderers FC Away
+SUMMARY:Round 12 U23s vs West Canberra Wanderers FC Away
 DTSTART;TZID=Australia/Sydney:20240629T151500
 DTEND;TZID=Australia/Sydney:20240629T170000
 LOCATION:Melrose Synthetic Field 1
