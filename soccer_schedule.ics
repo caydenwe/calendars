@@ -175,21 +175,21 @@ LOCATION:AIS Synthetic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 15 1st Grade vs ANU FC Away
-DTSTART;TZID=Australia/Sydney:20240720T151500
-DTEND;TZID=Australia/Sydney:20240720T170000
-LOCATION:ANU South Oval Field 1
+DTSTART;TZID=Australia/Sydney:20240731T190000
+DTEND;TZID=Australia/Sydney:20240731T204500
+LOCATION:Calwell 2 Field 204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 16 U23s vs Canberra Juventus FC at Home
+SUMMARY:Round 16 U23s vs Canberra Juventus FC Away
 DTSTART;TZID=Australia/Sydney:20240727T130000
 DTEND;TZID=Australia/Sydney:20240727T144500
-LOCATION:Woden Park Enclosed Field 1
+LOCATION:Lyneham 202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 16 1st Grade vs Canberra Juventus FC at Home
+SUMMARY:Round 16 1st Grade vs Canberra Juventus FC Away
 DTSTART;TZID=Australia/Sydney:20240727T150000
 DTEND;TZID=Australia/Sydney:20240727T164500
-LOCATION:Woden Park Enclosed Field 1
+LOCATION:Lyneham 202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 17 U23s vs Queanbeyan City FC Away
