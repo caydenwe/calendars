@@ -6,10 +6,10 @@ DTEND;TZID=Australia/Sydney:20250405T164500
 LOCATION:Woden Park Enclosed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 2 1st Grade vs Canberra Juventus FC Away
+SUMMARY:Round 2 1st Grade vs Canberra Juventus FC at Home
 DTSTART;TZID=Australia/Sydney:20250412T150000
 DTEND;TZID=Australia/Sydney:20250412T164500
-LOCATION:Ainslie
+LOCATION:Woden Park Enclosed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3 1st Grade vs West Canberra Wanderers FC at Home
@@ -48,10 +48,10 @@ DTEND;TZID=Australia/Sydney:20250531T164500
 LOCATION:ANU South Oval
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 9 1st Grade vs Canberra Juventus FC at Home
+SUMMARY:Round 9 1st Grade vs Canberra Juventus FC Away
 DTSTART;TZID=Australia/Sydney:20250614T150000
 DTEND;TZID=Australia/Sydney:20250614T164500
-LOCATION:Woden Park Enclosed
+LOCATION:Ainslie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 10 1st Grade vs West Canberra Wanderers FC Away
