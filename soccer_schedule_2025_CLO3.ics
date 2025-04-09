@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Round 7 vs UC Stars Away
 DTSTART;TZID=Australia/Sydney:20250524T150000
 DTEND;TZID=Australia/Sydney:20250524T164500
-LOCATION:Lambert Park
+LOCATION:University of Canberra Field 5a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 8 vs Narrabundah FC at Home
@@ -57,13 +57,13 @@ BEGIN:VEVENT
 SUMMARY:Round 10 vs UC Stars Away
 DTSTART;TZID=Australia/Sydney:20250614T150000
 DTEND;TZID=Australia/Sydney:20250614T164500
-LOCATION:Lambert Park
+LOCATION:University of Canberra Field 5a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 11 vs Narrabundah FC at Home
+SUMMARY:Round 11 vs Monaro Panthers FC Away
 DTSTART;TZID=Australia/Sydney:20250621T150000
 DTEND;TZID=Australia/Sydney:20250621T164500
-LOCATION:Deakin 1
+LOCATION:Duncan Oval Field 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 12 vs Queanbeyan City FC at Home
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Round 13 vs Woden Valley FC Away
 DTSTART;TZID=Australia/Sydney:20250705T150000
 DTEND;TZID=Australia/Sydney:20250705T164500
-LOCATION:Lambert Park
+LOCATION:Deakin 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 14 vs Canberra City FC at Home
