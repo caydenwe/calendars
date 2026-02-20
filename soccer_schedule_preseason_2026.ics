@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:Round 1 1st Grade vs Port Kembla FC at Home
 DTSTART;TZID=Australia/Sydney:20250208T160000
 DTEND;TZID=Australia/Sydney:20250208T174500
-LOCATION:Judy Masters Oval
+LOCATION:Judy Masters Oval 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 2 1st Grade vs Warilla Wanderers FC Away
