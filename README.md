@@ -11,7 +11,7 @@ the change the next time their calendar app refreshes.
 If a row is wrong (a bad date, or a duplicate), the Action fails and the published
 feed is left as it was. Check the Actions tab after an edit.
 
-Dates use the `date_format` set in `calendars.toml` (e.g. `23 Oct 2026`). `End Date`
+Dates use the `date_format` set in `calendars.toml` (e.g. `1 Feb 2026`). `End Date`
 is the last day of the event and can be left blank for one-day events.
 
 ## Feeds
