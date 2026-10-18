@@ -1,0 +1,35 @@
+name: Build calendars
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "calendars.toml", "build.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-calendars
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build .ics files
+        run: python3 build.py
+
+      - name: Commit changed feeds
+        run: |
+          git add -- '*.ics'
+          if git diff --cached --quiet; then
+            echo "Feeds unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Rebuild calendars from ${GITHUB_SHA::7}"
+          git push

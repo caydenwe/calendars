@@ -1,0 +1,18 @@
+# One [[calendar]] per subscribable feed. `build.py` turns each CSV into its .ics.
+#
+# `output` is the file subscribers' links point at:
+#   https://raw.githubusercontent.com/caydenwe/calendars/main/<output>
+# Never rename it, or everyone's subscription breaks.
+#
+# `title` and `location` are templates: {Column Name} is replaced with that
+# column's value from the CSV row.
+
+[[calendar]]
+name = "Julian's Racing"
+csv = "data/julians-racing.csv"
+output = "Julian's Racing Dates.ics"
+title = "{Race Name} Race"
+location = "{Location}"
+start = "Start Date"
+end = "End Date"          # inclusive: the last day of the event
+date_format = "%d %b %Y"  # e.g. 23 Oct 2026
